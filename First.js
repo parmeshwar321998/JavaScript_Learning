@@ -1,0 +1,1 @@
+console.log("hey this is my first code which ia m pushing into th egit")
